@@ -75,6 +75,7 @@ battery = psutil.sensors_battery()
 
 battery.percent
 battery.power_plugged
+```
 
 ###  Installation du projet
 
